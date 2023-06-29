@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+
+.heroBgImage{
+  background-image: url('../../public/assets/herobg.png');
+  background-position:top;
+  background-repeat: no-repeat;
+background-size: contain;
+}
